@@ -1,4 +1,4 @@
-package org.prateek.StructuralPatterns.AdapterPattern;
+package org.varrnit.StructuralPatterns.AdapterPattern;
 
 public class Client {
     public static void main(String[] args) {
