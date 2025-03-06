@@ -15,11 +15,9 @@ A comprehensive collection of design patterns implemented in Java, covering all 
 
 ## 🚀 Getting Started
 1. Clone the repository:
-   ```sh
-   git clone https://github.com/prateek27/design-patterns-java.git
-   ```
 2. Open in your favorite Java IDE (IntelliJ, Eclipse, etc.)
-3. Run the examples and explore the implementations
+3. Setup your JDK. I am using java 17.x
+4. Run the examples and explore the implementations
 
 ## 🎯 Usage
 This repository is ideal for:
